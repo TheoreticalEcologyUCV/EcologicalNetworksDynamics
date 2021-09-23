@@ -6,7 +6,7 @@ The population dynamics are based on Generalized Lotka-Volterra Equations; the p
 
 The development of this program started in 2015; more components and options have been added as more theoretical explorations have been confronted. 
 
-Results using these programs, or parts of them, have been published in: Griffon D (2015, Doctoral Thesis); Griffon D (…); Griffon D and Hernandez MJ (2014, 2019); Griffon D and Rodríguez G (2017); Ramírez D (2020, Bachelor Thesis); Griffon D, Hernandez MJ and Ramírez D (2021).
+Results using these programs, or parts of them, have been published in: Griffon D (2015, Doctoral Thesis); Griffon D and Hernandez MJ (2014, 2019); Griffon D and Rodríguez G (2017); Ramírez D (2020, Bachelor Thesis); Griffon D, Hernandez MJ and Ramírez D (2021).
 
 Details:
 Each run of any of these programs is considered a single simulation or experiment. E. g.: If you want the data for 1000 simulations for a specific set of conditions, then you need to run the script (with the changes of the selected parameters) 1000 times.
