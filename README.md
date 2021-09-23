@@ -1,8 +1,8 @@
 # EcologicalNetworksDynamics
 
-EcologicalNetworksDynamics is a set of programs developed in R to simulate the dynamics of ecological networks, which in turn respond to the intrinsic population, community, metapopulation and/or metacommunity dynamics. 
+EcologicalNetworksDynamics is a set of programs developed in R to simulate the dynamics of ecological networks, which respond to their intrinsic population, community, metapopulation and/or metacommunity dynamics. 
 
-The population dynamics are based on Generalized Lotka-Volterra Equations; the population interactions include the possibility of conditional outcomes; the spatial component assumes migrations between populations and/or between communities. The networks can be generated randomly, or based on actual data or natural (environmental, social, etc.) input. The program includes the possibility to generate networks with topologies that represent different types of ecosystems and agro-ecosystems; theoretical transitions between them can be simulated by modifying some network's central features.
+The population dynamics are based on Generalized Lotka-Volterra Equations; the population interactions include the possibility of conditional outcomes; the spatial component assumes migrations between populations and/or between communities. The networks can be generated randomly, or based on actual data or natural (environmental, social, etc.) input. The program includes the possibility to generate networks with topologies that represent different types of ecosystems and agro-ecosystems; theoretical transitions between them can be simulated by modifying some network topological features.
 
 The development of this program started in 2015; more components and options have been added as more theoretical explorations have been confronted. 
 
