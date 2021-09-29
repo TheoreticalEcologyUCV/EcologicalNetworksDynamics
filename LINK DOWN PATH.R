@@ -157,9 +157,7 @@ MatrizInteraccion<- matrix(unidasInt, nrow =tamaño, ncol =tamaño) # Transformi
 
 
 
-# This is the part where the number of edges can be changes starting from the original topology 
-
-
+# This is the part where the number of edges can be changed starting from the original topology - this must be done manually and step by step, introducing the amount of edges you want the network to have initally
 
 
 
