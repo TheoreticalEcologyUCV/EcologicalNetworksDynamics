@@ -11,6 +11,6 @@ Results using these programs, or parts of them, have been published in: Griffon 
 Details:
 Each run of any of these programs is considered a single simulation or experiment. E. g.: If you want the data for 1000 simulations for a specific set of conditions, then you need to run the script (with the changes of the selected parameters) 1000 times.
 
-To change the number of edges of the network check the sections "ADDING EDGES", "REMOVING EDGES" and the function erdos.renyi.game for (LINK UP PATH, LINK DOWN PATH AND RANDOM NETWORK CENTRALITY, respectively)
+To change the number of edges of the network, check the sections "ADDING EDGES", "REMOVING EDGES" and the function erdos.renyi.game for LINK UP PATH, LINK DOWN PATH AND RANDOM NETWORK CENTRALITY, respectively.
 
 For additional help contact: griffondiego@gmail.com or davidearamirezp@gmail.com
