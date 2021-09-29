@@ -121,7 +121,7 @@ NoInter<- matrix(0, nrow =n, ncol = n) # Null matrix that will fill all the othe
 
 AA <- Inter # Dummy variable to identify each interaction sub-matrix 
 
-BB<- NoInter # Dummy variable to identify each null sub-matrix 
+BB<- NoInter # Dummy variable to identify each null sub-matrix
 
 for (col in 1:c) { 
   
@@ -766,7 +766,7 @@ vecresint [[2]] <- round((NumeroInteraccionesOscilantes	*100)/NumeroInteraccione
 
 
 
-# Results vectors 
+# Results vectors
 
 
 
