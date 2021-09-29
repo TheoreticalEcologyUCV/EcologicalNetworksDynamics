@@ -14,7 +14,7 @@
 
 
 
-# Interaction functions 
+# Interaction functions
 
 # linear corresponds to 1 
 
